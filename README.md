@@ -7,7 +7,7 @@ The objective of this project is to create a simple Todo List web application th
 ## Project Description
 This application allows users to:
 - Add tasks
-- Mark tasks as completed[script.js][README.md](https://github.com/user-attachments/files/25947277/README.md)
+- Mark tasks as completed
 
 
 - Delete tasks
